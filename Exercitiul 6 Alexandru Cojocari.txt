@@ -1,0 +1,3 @@
+a=int(input('dati numerul de mere pentru primul copil=))
+b=a
+primul_copil_dupa_ce_mananca=a-1
